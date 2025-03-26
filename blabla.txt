@@ -1,0 +1,4 @@
+# Genesys Cloud Credentials
+GENESYS_CLIENT_ID=aebdb55f-f4bc-4803-94c4-2fd066cf3c6d
+GENESYS_CLIENT_SECRET=PGwMN8O76VYmgFaU5NBTwGffz-jDaIGQhAhkwflGZ4w
+GENESYS_ENVIRONMENT=mypurecloud.de
